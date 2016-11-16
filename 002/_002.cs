@@ -1,6 +1,6 @@
 using System;
 
-public class p002 {
+public class _002 {
     public static void Main() {
         int[] fibo = new int[36];
         fibo[0] = 0;

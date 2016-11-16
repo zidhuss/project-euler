@@ -1,6 +1,6 @@
 using System;
 
-public class p003 {
+public class _003 {
     public static void Main(String[] args) {
         Console.WriteLine(LargestPrimeFactor(600851475143));
     }

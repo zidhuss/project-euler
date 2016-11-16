@@ -1,6 +1,6 @@
 using System;
 
-public class p001 {
+public class _001 {
     public static void Main() {
         int s = 0;
         for (int i = 1; i < 1000; i++) {
