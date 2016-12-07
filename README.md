@@ -3,6 +3,8 @@
 This repository contains my solutions for problems from [project
 euler](https://projecteuler.net).
 
+![](https://projecteuler.net/profile/zidhuss.png)
+
 Add my friend key
 
 ```
