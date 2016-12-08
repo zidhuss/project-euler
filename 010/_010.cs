@@ -1,8 +1,10 @@
+using System;
+
 public class _010 {
-    public static void main(String[] args) {
+    public static void Main(string[] args) {
         int limit = 2000000;
         int sievebound = (limit - 1) / 2;
-        int crosslimit = (int) (Math.sqrt(limit) - 1) / 2;
+        int crosslimit = (int) (Math.Sqrt(limit) - 1) / 2;
         int[] sieve = new int[sievebound];
 
         for (int i = 1; i < crosslimit; i++)
@@ -15,6 +17,6 @@ public class _010 {
             if (sieve[i] == 0)
                 sum += 2*i+1;
 
-        System.out.println(sum);
+        Console.WriteLine(sum);
     }
 }
