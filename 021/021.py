@@ -11,7 +11,7 @@ def sum_divisors(n):
 
 
 amicable_sum = 0
-for a in range(2, 1000):
+for a in range(2, 10000):
     b = sum_divisors(a)
     if b > a:
         if sum_divisors(b) == a:
