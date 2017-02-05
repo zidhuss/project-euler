@@ -1,1 +1,3 @@
-print(sum([i for i in range(1000) if i % 3 == 0 or i % 5 == 0]))
+s = lambda n, k:  k * ((((n - 1) // k) * (((n - 1) // k) + 1)) // 2)
+
+print(s(1000, 3) + s(1000, 5) - s(1000, 15))

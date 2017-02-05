@@ -1,9 +1,7 @@
+fn sum(n: i32, k: i32) -> i32 {
+	return k * ((((n - 1) / k) * (((n - 1) / k) + 1)) / 2);
+}
+
 fn main() {
-    let mut s = 0;
-    for i in 0..1000 {
-        if i % 3 == 0 || i % 5 == 0 {
-            s += i;
-        }
-    }
-    println!("{}", s);
+    println!("{}", sum(1000, 3) + sum(1000, 5) - sum(1000, 15));
 }

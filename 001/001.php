@@ -1,8 +1,8 @@
 <?php
 
-$s = 0;
-for ($i = 0; $i < 1000; $i++) {
-    if ($i % 5 === 0 || $i % 3 === 0)
-        $s += $i;
+function sum($n, $k) {
+	return intdiv($k * (intdiv($n-1, $k) * (intdiv($n-1, $k) + 1)), 2);
 }
-print("$s\n");
+
+$solution = sum(1000, 3) + sum(1000, 5) - sum(1000, 15);
+print("$solution\n");

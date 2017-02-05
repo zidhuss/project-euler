@@ -1,10 +1,10 @@
 #include <iostream>
 
+int sum(int n, int k) {
+	return k * (((n-1) / k) * (((n-1) / k) + 1)) / 2;
+}
+
 int main() {
-    int s = 0;
-    for (int i = 0; i < 1000; i++) {
-        if (i % 3 == 0 || i % 5 == 0) 
-            s += i;
-    }
-    std::cout << s << std::endl;
+    int solution = sum(1000, 3) + sum(1000, 5) - sum(1000, 15);
+    std::cout << solution << std::endl;
 }

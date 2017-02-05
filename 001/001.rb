@@ -1,7 +1,5 @@
-s = 0
-for i in 0..999
-    if i % 3 == 0 || i % 5 == 0
-        s += i
-    end
+def sum(n, k)
+	return k * ((((n - 1) / k) * (((n - 1) / k) + 1)) / 2)
 end
-puts "#{s}"
+
+puts "#{sum(1000, 3) + sum(1000, 5) - sum(1000, 15)}"

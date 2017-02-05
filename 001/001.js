@@ -1,6 +1,6 @@
-let s = 0
-for (let i = 0; i < 1000; i++) {
-  if (i % 3 === 0 || i % 5 === 0)
-    s += i
+function sum(n, k) {
+  return Math.trunc(k * (Math.trunc((n - 1) / k) * (Math.trunc((n - 1) / k) + 1)) / 2)
 }
-console.log(s)
+
+const solution = sum(1000, 3) + sum(1000, 5) - sum(1000, 15)
+console.log(solution)

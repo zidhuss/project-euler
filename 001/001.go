@@ -2,12 +2,11 @@ package main
 
 import "fmt"
 
+func sum(n, k int) int {
+	return k * ((((n - 1) / k) * (((n - 1) / k) + 1)) / 2)
+}
+
 func main() {
-	s := 0
-	for i := 0; i < 1000; i++ {
-		if i%5 == 0 || i%3 == 0 {
-			s += i
-		}
-	}
-	fmt.Println(s)
+	solution := sum(1000, 3) + sum(1000, 5) - sum(1000, 15)
+	fmt.Println(solution)
 }
