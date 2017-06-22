@@ -9,7 +9,7 @@ int main() {
     int i = 0;
     for (char c = fgetc(fp); c != EOF; c = fgetc(fp)) {
         if (c != '\n') {
-            numbers[i] = c - 48;
+            numbers[i] = c - '0';
             i++;
         }
     }
