@@ -13,42 +13,506 @@ Add my friend key
 
 ## Solutions
 
-| Problem |  C   | C++  | Python |  Go  | Java |  C#  | PHP  | JavaScript | Rust | Ruby |
-|:-------:|:----:|:----:|:------:|:----:|:----:|:----:|:----:|:----------:|:----:|:----:|
-|   001   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔵  |     🔵     |  🔵  |  🔵  |
-|   002   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔵  |     🔵     |  🔵  |  🔵  |
-|   003   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔵  |     🔵     |  🔵  |  🔴  |
-|   004   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔵  |     🔵     |  🔵  |  🔴  |
-|   005   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔵  |     🔵     |  🔵  |  🔴  |
-|   006   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔵  |     🔵     |  🔵  |  🔴  |
-|   007   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔵  |     🔵     |  🔴  |  🔴  |
-|   008   |  🔵  |  🔴  |   🔵   |  🔵  |  🔵  |  🔴  |  🔴  |     🔵     |  🔴  |  🔴  |
-|   009   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔵  |     🔵     |  🔴  |  🔴  |
-|   010   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔵  |     🔵     |  🔴  |  🔴  |
-|   011   |  🔴  |  🔴  |   🔴   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   012   |  🔴  |  🔴  |   🔴   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   013   |  🔵  |  🔴  |   🔵   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   014   |  🔴  |  🔴  |   🔴   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   015   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔴  |     🔵     |  🔵  |  🔴  |
-|   016   |  🔵  |  🔴  |   🔵   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   017   |  🔴  |  🔴  |   🔴   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   019   |  🔵  |  🔴  |   🔵   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   020   |  🔵  |  🔴  |   🔵   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   021   |  🔴  |  🔴  |   🔵   |  🔴  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   022   |  🔴  |  🔴  |   🔴   |  🔵  |  🔴  |  🔴  |  🔴  |     🔵     |  🔴  |  🔴  |
-|   023   |  🔴  |  🔴  |   🔵   |  🔴  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   024   |  🔴  |  🔴  |   🔵   |  🔴  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   025   |  🔵  |  🔴  |   🔵   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   028   |  🔵  |  🔵  |   🔵   |  🔵  |  🔵  |  🔵  |  🔵  |     🔵     |  🔵  |  🔴  |
-|   029   |  🔵  |  🔴  |   🔵   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   030   |  🔵  |  🔴  |   🔴   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   034   |  🔵  |  🔴  |   🔴   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   036   |  🔴  |  🔴  |   🔵   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   040   |  🔴  |  🔴  |   🔵   |  🔴  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   048   |  🔵  |  🔴  |   🔵   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   052   |  🔴  |  🔴  |   🔵   |  🔴  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   056   |  🔵  |  🔴  |   🔵   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   059   |  🔵  |  🔴  |   🔵   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   092   |  🔵  |  🔴  |   🔴   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
-|   145   |  🔵  |  🔴  |   🔴   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔵  |  🔴  |
-|   206   |  🔵  |  🔴  |   🔴   |  🔵  |  🔴  |  🔴  |  🔴  |     🔴     |  🔴  |  🔴  |
+<details>
+<summary>Languages</summary>
+<table>
+  <thead>
+    <tr class="header">
+      <th align="center">Problem</th>
+      <th align="center">C</th>
+      <th align="center">C++</th>
+      <th align="center">Python</th>
+      <th align="center">Go</th>
+      <th align="center">Java</th>
+      <th align="center">C#</th>
+      <th align="center">PHP</th>
+      <th align="center">JavaScript</th>
+      <th align="center">Rust</th>
+      <th align="center">Ruby</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="odd">
+      <td align="center">001</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+    </tr>
+    <tr class="even">
+      <td align="center">002</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">003</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">004</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">005</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">006</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">007</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">008</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">009</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">010</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">011</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">012</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">013</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">014</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">015</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">016</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">017</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">019</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">020</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">021</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">022</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">023</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">024</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">025</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">028</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">029</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">030</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">034</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">036</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">040</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">048</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">052</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">056</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">059</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">092</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="even">
+      <td align="center">145</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
+      <td align="center">206</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+  </tbody>
+</table>
+</details>
