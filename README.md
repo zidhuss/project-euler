@@ -133,7 +133,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
       <td align="center">🔵</td>
-      <td align="center">🔴</td>
+      <td align="center">🔵</td>
       <td align="center">🔴</td>
     </tr>
     <tr class="odd">
