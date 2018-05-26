@@ -7,9 +7,7 @@ euler](https://projecteuler.net).
 
 Add my friend key
 
-```
-880718_Ihcoqu11O0E5bOJtk2PLKDMs7QVYpXzw
-```
+<pre><code>880718_Ihcoqu11O0E5bOJtk2PLKDMs7QVYpXzw</code></pre>
 
 ## Solutions
 
