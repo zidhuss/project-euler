@@ -19,7 +19,7 @@ func main() {
 	file, _ := os.Open("./resources/names.txt")
 	defer file.Close()
 	bs, _ := ioutil.ReadAll(file)
-	names := strings.Split(string(bs), ",")
+	names := strings.Split(strings.Replace(string(bs), "\n", "", -1), ",")
 	sort.Strings(names)
 	sum := 0
 	for position, name := range names {
