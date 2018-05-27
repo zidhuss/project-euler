@@ -422,7 +422,7 @@ Add my friend key
     </tr>
     <tr class="odd">
       <td align="center">040</td>
-      <td align="center">🔴</td>
+      <td align="center">🔵</td>
       <td align="center">🔴</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
