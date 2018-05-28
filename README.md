@@ -461,7 +461,7 @@ Add my friend key
     </tr>
     <tr class="even">
       <td align="center">052</td>
-      <td align="center">🔴</td>
+      <td align="center">🔵</td>
       <td align="center">🔴</td>
       <td align="center">🔵</td>
       <td align="center">🔵</td>
