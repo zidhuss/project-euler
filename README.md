@@ -252,6 +252,19 @@ Add my friend key
       <td align="center">🔴</td>
     </tr>
     <tr class="even">
+      <td align="center">018</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔵</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+      <td align="center">🔴</td>
+    </tr>
+    <tr class="odd">
       <td align="center">019</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -264,7 +277,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td align="center">020</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -277,7 +290,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td align="center">021</td>
       <td align="center">🔴</td>
       <td align="center">🔴</td>
@@ -290,7 +303,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td align="center">022</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -303,7 +316,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td align="center">023</td>
       <td align="center">🔴</td>
       <td align="center">🔴</td>
@@ -316,7 +329,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td align="center">024</td>
       <td align="center">🔴</td>
       <td align="center">🔴</td>
@@ -329,7 +342,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td align="center">025</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -342,7 +355,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td align="center">028</td>
       <td align="center">🔵</td>
       <td align="center">🔵</td>
@@ -355,7 +368,7 @@ Add my friend key
       <td align="center">🔵</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td align="center">029</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -368,7 +381,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td align="center">030</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -381,7 +394,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td align="center">031</td>
       <td align="center">🔴</td>
       <td align="center">🔴</td>
@@ -394,7 +407,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td align="center">034</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -407,7 +420,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td align="center">036</td>
       <td align="center">🔴</td>
       <td align="center">🔴</td>
@@ -420,7 +433,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td align="center">040</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -433,7 +446,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td align="center">048</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -446,7 +459,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td align="center">052</td>
       <td align="center">🔴</td>
       <td align="center">🔴</td>
@@ -459,7 +472,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td align="center">056</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -472,7 +485,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td align="center">059</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -485,7 +498,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td align="center">092</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -498,7 +511,7 @@ Add my friend key
       <td align="center">🔴</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td align="center">145</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
@@ -511,7 +524,7 @@ Add my friend key
       <td align="center">🔵</td>
       <td align="center">🔴</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td align="center">206</td>
       <td align="center">🔵</td>
       <td align="center">🔴</td>
