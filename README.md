@@ -500,7 +500,7 @@ Add my friend key
     </tr>
     <tr class="odd">
       <td align="center">067</td>
-      <td align="center">🔴</td>
+      <td align="center">🔵</td>
       <td align="center">🔴</td>
       <td align="center">🔴</td>
       <td align="center">🔵</td>
