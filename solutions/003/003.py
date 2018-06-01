@@ -1,11 +1,11 @@
 def largest_prime_factor(number):
     factor = 1
-    i = 2
+    i = 3
     while i * i <= number:
         if number == 1:
             return factor
         elif number % i != 0:
-            i += 1
+            i += 2
             continue
         else:
             factor = i

@@ -2,7 +2,7 @@
 
 function largest_prime_factor($number) {
     $factor = 1;
-    for ($i = 2; $i * $i <= $number; $i++) {
+    for ($i = 3; $i * $i <= $number; $i += 2) {
         if ($number == 1)
             return $factor;
         else if ($number % $i != 0)

@@ -7,7 +7,7 @@ public class _003 {
 
     public static long LargestPrimeFactor(long number) {
         long factor = 1;
-        for (int i = 2; i * i <= number; i++) {
+        for (int i = 3; i * i <= number; i += 2) {
             if (number == 1)
                 return factor;
             else if (number % i != 0)

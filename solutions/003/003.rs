@@ -4,7 +4,7 @@ fn main() {
 
 fn largest_prime_factor(n: u64) -> u64 {
     let mut factor: u64 = 1;
-    let mut i: u64 = 2;
+    let mut i: u64 = 3;
     let mut x = n;
 
     while i*i <= x {
@@ -18,7 +18,7 @@ fn largest_prime_factor(n: u64) -> u64 {
                 x /= i
             }
         }
-        i += 1;
+        i += 2;
     }
     return x;
 }

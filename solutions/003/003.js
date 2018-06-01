@@ -1,7 +1,7 @@
 function largestPrimeFactor(number) {
   let factor = 1
   let result = number
-  for (let i = 2; i * i <= result; i++) {
+  for (let i = 3; i * i <= result; i += 2) {
     if (result === 1)
       return factor
     else if (result % i !== 0)
