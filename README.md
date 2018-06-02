@@ -229,13 +229,13 @@ Add my friend key
     </tr>
     <tr class="odd">
       <td align="center">021</td>
-      <td align="center"></td>
+      <td align="center"><a href="solutions/021/021.c">🔵</a></td>
       <td align="center"></td>
       <td align="center"><a href="solutions/021/021.py">🔵</a></td>
+      <td align="center"><a href="solutions/021/021.go">🔵</a></td>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="solutions/021/021.rs">🔵</a></td>
     </tr>
     <tr class="even">
       <td align="center">022</td>
