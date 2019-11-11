@@ -3,3 +3,6 @@
 .tern-port
 .padawan
 .eslintrc
+
+go-euler
+results.json
