@@ -5,4 +5,4 @@
 .eslintrc
 
 go-euler
-results.json
+.results.json
